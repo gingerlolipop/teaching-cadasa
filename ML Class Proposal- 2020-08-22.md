@@ -1,4 +1,4 @@
-# Class Proposal
+# Machine Learning Class Proposal
 
 Class Name: Machine Learning 
 
