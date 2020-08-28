@@ -14,7 +14,7 @@ Syllabus:
 
 - Week 1 Exploratory Data Analysis with Pandas and Numpy
 
-In this module, we introduce how to conduct exploratory data analysis with popular libraries: Pandas and Numpy. Data Scientists usually conduct exploratory analyses before they choose specific algorithms. Pandas makes it convenient to load, process and analyze tabular data.
+In this module, we introduce how to conduct exploratory data analysis with popular libraries: `Pandas` and `Numpy`. Data Scientists usually conduct exploratory analyses before they choose specific algorithms. `Pandas` makes it convenient to load, process and analyze tabular data.
 
 
 
