@@ -78,19 +78,19 @@ Machine learning works best when there is a lot of data available for training. 
 
 
 
-Week 12 Time Series Analysis Basics
+- Week 12 Time Series Analysis Basics
 
 We cover the conventional econometric approach and machine learning methods to deal with time series data.
 
 
 
-Week 13 Time Series Analysis Application
+- Week 13 Time Series Analysis Application
 
 We introduce the Prophet Forecasting model for time series predictions, forecast quality evaluations, and visualizations.
 
 
 
-Week 14 Gradient Boosting
+- Week 14 Gradient Boosting
 
 In this module, we discuss the history, algorithm of gradient boosting, and the loss functions.
 
